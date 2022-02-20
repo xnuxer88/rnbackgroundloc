@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnbackgroundloc",
+    "slug": "rnbackgroundloc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnbackgroundloc"
+}
